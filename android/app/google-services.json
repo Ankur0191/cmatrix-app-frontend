@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "344193158201",
+    "firebase_url": "https://cmatrix-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cmatrix-app",
+    "storage_bucket": "cmatrix-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344193158201:android:787870a6f613b327a411e8",
+        "android_client_info": {
+          "package_name": "com.edulink.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344193158201-p36p1c7msit3q22jj5f79sv424gqqdb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5r0Wa7y8G_jI5e_c8kCb65User93DE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344193158201-p36p1c7msit3q22jj5f79sv424gqqdb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344193158201-frru35a7nmlo58rlmrip1huoq2apht3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344193158201:android:f3ba81e46a3e3fa2a411e8",
+        "android_client_info": {
+          "package_name": "com.example.Cmatrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344193158201-p36p1c7msit3q22jj5f79sv424gqqdb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5r0Wa7y8G_jI5e_c8kCb65User93DE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344193158201-p36p1c7msit3q22jj5f79sv424gqqdb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344193158201-frru35a7nmlo58rlmrip1huoq2apht3k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
