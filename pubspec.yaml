@@ -11,18 +11,19 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    # flutter_launcher_icons: ^0.13.1
 
   # UI and Fonts
   cupertino_icons: ^1.0.6
   google_fonts: ^6.2.1
   google_nav_bar: ^5.0.6
-  fluttertoast: ^8.0.9
+  fluttertoast: ^8.2.12  # or latest stable
 
   # Firebase Core Services
-  firebase_core: ^2.31.0
-  firebase_auth: ^4.19.0
-  cloud_firestore: ^4.16.0
-  firebase_storage: ^11.7.0
+  firebase_core: ^3.13.1
+  firebase_auth: ^5.5.4
+  cloud_firestore: ^5.6.8
+  firebase_storage: ^12.4.6
 
   # Authentication
   google_sign_in: ^6.3.0
@@ -45,6 +46,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
 
 flutter:
 
@@ -52,4 +54,10 @@ flutter:
 
   assets:
     - lib/images/
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
 
